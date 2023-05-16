@@ -16,6 +16,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Hikaru-e/Java-Project/assets/77628961/67e76027-8cbf-4efe-b491-46051456ce05
-" alt="Main Menu"/>
+  <img src="https://github.com/Hikaru-e/Java-Project/assets/77628961/67e76027-8cbf-4efe-b491-46051456ce05" alt="Main Menu"/>
 </p>
