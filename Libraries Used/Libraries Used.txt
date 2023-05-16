@@ -1,0 +1,10 @@
+- flatlaf : pour changer les themes
+
+- ApachePOI : pour l'importation du fichier excel, lien pour le telecharger : https://archive.apache.org/dist/poi/release/bin/poi-bin-5.2.3-20220909.zip
+
+- mysql-connector : pour la connection avec la database
+
+- PieChart : pour les statistiques
+
+- JCalendar
+
