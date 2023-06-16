@@ -1,13 +1,5 @@
 # Java Project ( Gestion des projets académiques )
 
-> **Génie Informatique 1 : ENSA Khouribga  
-&nbsp;&nbsp;&nbsp;Réalisé par :**
-
-```
-EL AKHIRI OUSSAMA   N°20
-LAMCHANNEQ ZAKARIA  N°39
-```
-
 > Some program interfaces
 
 <p align="center">
